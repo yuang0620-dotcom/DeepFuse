@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+config.env
+code/icd_pauc/cache
+code/dermnet_keep.npy
+results_shipped/
+.idea/

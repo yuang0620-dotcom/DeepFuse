@@ -1,0 +1,12 @@
+torch==2.4.1
+torchvision==0.19.1
+timm==0.9.16
+scikit-learn==1.7.2
+numpy==2.2.6
+scipy==1.15.3
+pandas==2.3.3
+opencv-python==5.0.0.93
+pillow==12.2.0
+tqdm==4.69.0
+matplotlib==3.10.9
+open_clip_torch==2.32.0
